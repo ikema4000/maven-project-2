@@ -10,7 +10,7 @@
   padding: 80px;
   text-align: center;
   background: #1abc9c;
-  color: white;
+  color: pink;
 }
 /* Increase the font size of the heading */
 .header h1 {
@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Sample Java Webapp</h1>
-  <p>Hello JJTech World!</p>
+  <h1>WHO SAY WE NO GO FIT DO AM </h1>
+  <p>BY HOOK OR COOK THIS CICD PIPELINE MUST RUN!</p>
 </div>
 </body>
 </html>
